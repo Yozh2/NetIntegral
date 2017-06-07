@@ -56,10 +56,6 @@ The server prints result of the calculations
 
 * **Nikolai Gaiduchenko** - *MIPT student, 513 group* - [Yozh2](https://github.com/Yozh2)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-Special thanks to Egor Korepanov for inspiration with alerts.h file
+Special thanks to Egor Korepanov for inspiration with alerts.h file and some other tips.
