@@ -7,6 +7,7 @@ Purpose:  Compute a definite integral using the Simpson formula
 Input:    clients_max (number of clients)
 Output:   Estimate of the integral from From to To of FUNCTION
           using the Simpson formula
+          
 How to          
 compile:  It is better to compile via makefile
 
